@@ -1,0 +1,12 @@
+name: dosefindingapp
+title:
+username: bcoeumn
+account: bcoeumn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11235513
+bundleId: 8587607
+url: https://bcoeumn.shinyapps.io/dosefindingapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
